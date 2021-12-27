@@ -1,0 +1,16 @@
+http://127.0.0.1:8000/api/login
+
+{
+        "email": "john@doe.com",
+         "password": "password"
+}
+
+Bearer 
+   4|4pjhzy1nnaajsKJiYRi9gNORslMPzDx1x5KtXOGF
+
+http://127.0.0.1:8000/api/cour ******************index 
+http://127.0.0.1:8000/api/cour/1 *******************show 
+http://127.0.0.1:8000/api/cour?name_cour=uoyf&file=3&name_matiere=ar&id_profe=7  ***********************create
+http://127.0.0.1:8000/api/cour/2?name_cour=saif&file=3&name_matiere=ar&id_prof=5 **********************update
+http://127.0.0.1:8000/api/cour/2 ****************************************delete********************
+
